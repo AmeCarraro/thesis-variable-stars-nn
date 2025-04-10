@@ -1,7 +1,11 @@
 Neural Network Approaches for Classifying Variable Star Light Curves
+📍 University of Padova  
+🎓 Author: Amedeo Carraro | 👨‍🏫 Supervisor: Prof. Loris Nanni | 📅 Defense: 24/03/2025
+
 
 ✨ Overview
-Welcome to the GitHub repository accompanying my master's thesis: a deep dive into the stars through machine learning. This project focuses on the classification of variable stars—like Cepheids, BY Draconis, Delta Scuti, and eclipsing binaries—by analyzing their light curves, using two main deep learning approaches:
+Welcome to the GitHub repository accompanying my master's thesis: a deep dive into the stars through machine learning. 
+This project focuses on the classification of variable stars—like Cepheids, BY Draconis, Delta Scuti, and eclipsing binaries—by analyzing their light curves, using two main deep learning approaches:
 A Long Short-Term Memory (LSTM) model to capture temporal dependencies in reconstructed light curves.
 A Convolutional Neural Network (CNN) trained on image-like transformations of the light curves (including DMDT representations).
 
@@ -16,4 +20,4 @@ Recall
 F1-Score
 Confusion Matrix
 
-Results show strong classification performance from both models, with the CNN excelling in capturing class-specific visual features and the LSTM showing robustness to sequence-based data.
+💡Results show strong classification performance from both models, with the CNN excelling in capturing class-specific visual features and the LSTM showing robustness to sequence-based data.
