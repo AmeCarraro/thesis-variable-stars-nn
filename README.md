@@ -1,4 +1,5 @@
 Neural Network Approaches for Classifying Variable Star Light Curves
+
 📍 University of Padova  
 🎓 Author: Amedeo Carraro | 👨‍🏫 Supervisor: Prof. Loris Nanni | 📅 Defense: 24/03/2025
 
